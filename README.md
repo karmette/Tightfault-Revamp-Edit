@@ -19,3 +19,6 @@ I don't have as much time as before to maintain this project, and I've been want
 - Make pull requests to help make the pack better
 
 Ok thanks for stopping by.
+
+Thank you to contributors:
+- [Vortigern-The-Grey](https://github.com/Vortigern-The-Grey/)
