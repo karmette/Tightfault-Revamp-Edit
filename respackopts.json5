@@ -4,10 +4,11 @@
     capabilities: ["FileFilter", "DirFilter", "DirFilterAdditive"],
     conf: {
         // Your config options here
-	ores: [
-	    "default",
-	    "clean",
-	    "programmerArt"
-	]
+	      ores: [
+	          "default",
+	          "clean",
+	          "programmerArt"
+	      ],
+        customNames: false
     }
 }
